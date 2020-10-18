@@ -21,7 +21,7 @@
 int verbose=0;
 unsigned int numM=2;
 unsigned int numS=2;
-unsigned int lite=0;
+int lite=0;
 char module[128]="\0\0";
 char prefix[128]="\0\0";
 char file[256]="\0\0";
